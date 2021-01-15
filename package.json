@@ -1,0 +1,24 @@
+{
+  "name": "@saltire-template/ex",
+  "version": "0.1.0",
+  "private": true,
+  "description": "个人测试站点",
+  "keywords": [
+    "module",
+    "node",
+    "saltire-template",
+    "saltire-cli",
+    "right-knight",
+    "check"
+  ],
+  "repository": "saltire-template/ex",
+  "license": "MIT",
+  "author": "ye99810@163.com - saltire",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "dependencies": {
+    "cac": "6.6.1"
+  }
+}
